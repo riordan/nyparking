@@ -1,0 +1,25 @@
+﻿B,P-010938,1,0000 ,   ,Building Line,BL        
+B,P-010938,2,0055 ,   ,NO PARKING ANYTIME(SUPERSEDED BY R7-40R) DON'T USE R7-40                                                                                                                ,R7-40     
+B,P-010938,3,0089 ,   ,Property Line,PL        
+B,P-049703,1,0000 ,   ,Building Line,BL        
+B,P-049703,2,0000 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8AM-9AM EXCEPT SUNDAY <----> (SUPERSEDED BY SP-156C DATED 1-22-98)                                                                 ,R7-88R    
+B,P-049703,3,0000 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY (SUPERSEDED BY PS-55CB)                                                                                                            ,R7-162R   
+B,P-049703,4,0090 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8AM-9AM EXCEPT SUNDAY <----> (SUPERSEDED BY SP-156C DATED 1-22-98)                                                                 ,R7-88R    
+B,P-049703,5,0090 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY (SUPERSEDED BY PS-55CB)                                                                                                            ,R7-162R   
+B,P-049703,6,0158 ,   ,Property Line,PL        
+B,P-068316,1,0000 ,   ,Curb Line,CL        
+B,P-068316,2,0015 ,   ,Building Line,BL        
+B,P-068316,3,0087 ,   ,NO STANDING<---->HANDICAP BUS STOP(SYMBOL) W/4 ROUTES +(15X12,4 ROUTE RIDER-IF NECESSARY);REVISED 2/14/94 & SUPERSEDES SP-298B.                                         ,R7-61     
+B,P-068316,4,0149 ,W  ,NO STANDING(SINGLE ARROW)HANDICAP BUS(SYMBOL)W/4 ROUTES +(15X12 4 ROUTE RIDER-IF NECESSARY) REVISED 3/25/92 & SUPERSEDES SP-298BA                                       ,R7-61A    
+B,P-068316,5,0179 ,   ,NO PARKING ANYTIME <----> (SUPERSEDES R7-40 DON'T USE --R7-40)(SUPERSEDED BY SP-854C)                                                                                   ,R7-40R    
+B,P-068316,6,0229 ,   ,Building Line,BL        
+B,P-068316,7,0229 ,W  ,NO PARKING ANYTIME (SINGLE ARROW)(SUPERSEDES R7-40 DON'TUSE R7-40)(SUPERSEDED BY SP-854CA)                                                                              ,R7-40RA   
+B,P-068316,8,0244 ,   ,Curb Line,CL        
+B,P-075539,1,0000 ,   ,Curb Line,CL        
+B,P-075539,2,0019 ,   ,Building Line,BL        
+B,P-075539,3,0231 ,   ,Building Line,BL        
+B,P-075539,4,0243 ,   ,Curb Line,CL        
+B,P-076559,1,0000 ,   ,Curb Line,CL        
+B,P-076559,2,0248 ,   ,Property Line,PL        
+B,P-089057,1,0000 ,   ,Curb Line,CL        
+B,P-089057,2,0065 ,   ,Property Line,PL        
